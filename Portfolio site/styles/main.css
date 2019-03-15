@@ -1,0 +1,41 @@
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 740px;
+  }
+    /* comment header */
+  .header {
+    margin-bottom: 20px;
+  }
+body {
+  font-family: 'Ubuntu', sans-serif;
+  color: #747704;
+  font-weight: 300;
+  padding: 20px 0;
+}
+/* header comment */
+.header {
+  border-bottom: 2px solid #bcbbbb;
+}
+.main-image {
+  width: 100%;
+  margin-top: 22px;
+}
+.title-logo {
+  margin-top: 20px;
+  width: 8em;
+  height: 8em;
+  float: left;
+}
+.img-responsive {
+  height: 10em;
+  width: 100%;
+}
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid grey;
+  text-align: center;
+}
+.iframe {
+  width: 100%;
+}
